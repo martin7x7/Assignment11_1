@@ -5,12 +5,12 @@ Link to notebook: https://github.com/martin7x7/Assignment11_1/blob/main/prompt_I
 ## What is the problem?
 
 ## Files in repository
-1)	prompt.ipynb – contains requested code and answers to all questions
+1)	prompt_II_2.ipynb – contains requested code and answers to all questions
 2)	coupons.csv – contains data that were analyzed
 3)	LICENSE - license file
 
 ## Main conclusions from data analysis
-1) If year increases cars price also increases, if odometer number increases, cars price decreases.
+1) If the year increases, the car’s price also increases; if the odometer reading increases, the car’s price decreases.
 2) Clients value cars the most from these manufacturers – Lexus, RAM, Audi, Toyota, Porsche and GMC. Most sold cars were RAM, Toyota and GMC. There are also sold a lot of Ford, Jeep and Chevrolet cards. However, these type cars are not valued as expensive.
 3) Clients think that the least expensive models are from Nissan, Kia, Hyndai, Doge, Volkswagen, also Honda is valued low. Sales are not so big for these models also.
 4) Clients want cars which look good and are in “like new” condition. However, there is large part with cars with unknown condition which is a problem for data analysis in this case. One of tow main models also gave good mark for cars with excellent condition.

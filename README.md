@@ -1,6 +1,6 @@
 # What drives the price of a car?
 
-Link to notebook: [prompt_II_2.ipynb](https://github.com/martin7x7/Assignment11_1/blob/main/prompt_II_2.ipynb)
+Link to notebook: https://github.com/martin7x7/Assignment11_1/blob/main/prompt_II_2.ipynb
 
 ## What is the problem?
 

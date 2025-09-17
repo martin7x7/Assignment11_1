@@ -3,10 +3,11 @@
 Link to notebook: https://github.com/martin7x7/Assignment11_1/blob/main/prompt_II_2.ipynb
 
 ## What is the problem?
+This project aims to understand which features of a car increase or decrease its sales price.
 
 ## Files in repository
 1)	prompt_II_2.ipynb – contains requested code and answers to all questions
-2)	coupons.csv – contains data that were analyzed
+2)	vehicles.7z – contains data that were analyzed
 3)	LICENSE - license file
 
 ## Main conclusions from data analysis
